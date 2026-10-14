@@ -1,0 +1,6 @@
+{
+  "name": "HS LATTE - Specialty Coffee",
+  "description": "Premium specialty coffee shop and artisanal roastery. Good Coffee. Better Days.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
